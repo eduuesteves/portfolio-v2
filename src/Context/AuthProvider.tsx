@@ -1,11 +1,11 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 import { useApi } from "../Hook/useApi";
 import { IPokemon } from "../Types/Pokemon";
 import { IUser } from "../Types/User";
 import { IWeather } from "../Types/Weather";
 import { AuthContext } from "./AuthContext";
 
-export function AuthProvider({ children }: { children: JSX.Element}) {
+export function AuthProvider({ children }: { children: ReactNode }) {
 
     const [user, setUser] = useState<IUser | null>(null);
     const [pokemon, setPokemon] = useState<IPokemon | null>(null);

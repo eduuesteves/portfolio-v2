@@ -1,34 +1,27 @@
 # Portfolio with ReactTS 🔥🏆
 
-Esse portfolio foi desenvolvido usando as seguintes skills:
+Esse portfólio foi desenvolvido usando as seguintes tecnologias:
 
-    🔴 REACTJS
-    🟠 TYPESCRIPT
-    🟡 SASS
-    🟢 VITE
-    🔵 AXIOS
-    🟣 CONTEXT API
-    🟤 EMAILJS-DOM
-    ⚫ REACT-ROUTER-DOM
-    ⚪ REACT-ICONS
+    🔴 React 19.3
+    🟠 TypeScript 7
+    🟡 Sass 1.105
+    🟢 Vite 8.3
+    🔵 Axios 1.20
+    🟣 Context API
+    ⚫ React Router 7.18
+    ⚪ React Icons 5.7
+
+Node.js: 24.x
 
 O projeto já está na versão 2, contudo, ainda é possível acessar a versão 1.
 
 ## Code 👨‍💻
 
-    yarn create vite portfolio --template react-ts
+    npm install
     |
-    yarn
+    npm run dev
     |
-    yarn add sass
-    |
-    yarn add axios
-    |
-    yarn add react-router-dom
-    |
-    yarn add react-icons
-    |
-    yarn add emailjs-dom
+    npm run build
 
 ## Layout Desktop 🍕
 ![Layout Desktop](./src/components/images/Layout/desktop1.png)
