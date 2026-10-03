@@ -49,7 +49,7 @@ export function Navbar1() {
                         <img src={ImgInstagram} alt="logo do instagram"/>
                     </a>
                     <a href="https://linkedin.com/in/eduardoesteves04"  target="_blank">
-                        <img src={ImgLinkdin} className={s.linkdin} alt="logo do linkdin"/>
+                        <img src={ImgLinkdin} className={s.linkdin} alt="logo do LinkedIn"/>
                     </a>
                 </div>
             </nav>

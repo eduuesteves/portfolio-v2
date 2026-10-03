@@ -56,7 +56,7 @@ export const Home2 = () => {
             <div className={`${s.homeCard} ${s.homeProjects}`}>
                 Já desenvolvi
                 <span>+ de {user?.public_repos} Projetos</span>
-                no github
+                no GitHub
             </div>
             <div className={`${s.homeCard} ${s.bio}`}>
                 <p><span>Foco:</span> "{user?.bio}"</p>
@@ -70,8 +70,8 @@ export const Home2 = () => {
             </div>
             <div className={s.profilDescription}>
                 <div className={`${s.homeCard} ${s.description}`}>
-                <h3>Olá, tudo bem?? Seja Bem-Vindo(a)!</h3>
-                <p>Sou o Eduardo, mas pode me chamar de Edu. Esse é o meu portfólio e clicando no botão abaixo ou navegando pelo menu superior a direita, encontrará vários projetos que participei/criei.</p>
+                <h3>Olá, tudo bem? Seja bem-vindo(a)!</h3>
+                <p>Sou o Eduardo, mas pode me chamar de Edu. Esse é o meu portfólio e clicando no botão abaixo ou navegando pelo menu superior à direita, encontrará vários projetos que participei/criei.</p>
                 <Link to="/projects">
                     <button className={s.button}>Meus Projetos</button>
                 </Link>
@@ -88,13 +88,7 @@ export const Home2 = () => {
                     <li style={{backgroundColor: "chocolate"}}><SiFirebase size={50} color="white" /></li>
                     <li style={{backgroundColor: "black"}}><SiGithub size={50} color="white" /></li>
                     <li style={{backgroundColor: "#1E90FF"}}><SiTypescript size={50} color="white" /></li>
-                    <li style={{backgroundColor: "#fff"}}>Axios</li>
-                    <li style={{backgroundColor: "#fff"}}>Express</li>
-                    <li style={{backgroundColor: "#fff"}}>Context API</li>
-                    <li style={{backgroundColor: "#fff"}}>Mysql</li>
-                    <li style={{backgroundColor: "#fff"}}>Mysqlite</li>
-                    <li style={{backgroundColor: "#fff"}}>React Router Dom</li>
-                    <li style={{backgroundColor: "#fff"}}>Vite</li>
+
                 </ul>
             </div>
 
@@ -109,11 +103,11 @@ export const Home2 = () => {
                     <li>Componentes na medida certa para seu dispositivo</li>
                     <li>Mais organizado</li>
                     <li>API de temperatura em tempo real</li>
-                    <li>API de pokedex em tempo real</li>
-                    <li>API do github com minhas informações em tempo real</li>
+                    <li>API da Pokédex em tempo real</li>
+                    <li>API do GitHub com minhas informações em tempo real</li>
                     <li>Context API com weather</li>
                 </ul>
-                <p>Mas fica ligado(a) que vem muuuuita novidade por aí :)</p>
+                <p>Mas fique ligado(a), pois vem muita novidade por aí :)</p>
 
             </div>
             </div>

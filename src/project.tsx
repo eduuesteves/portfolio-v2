@@ -69,8 +69,8 @@ const red = "#DC143C";
 
 export const projects = [
     {
-        "name": " Github",
-        "description": "Torna os projetos do GITHUB em um portfólio",
+        "name": "GitHub",
+        "description": "Transforma os projetos do GitHub em um portfólio",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -87,8 +87,8 @@ export const projects = [
         "website": ""
     },
     {
-        "name": "APIRest Noz Books",
-        "description": "Aplicação construída com react, typescript, vite, axios, react-router-dom e sass.",
+        "name": "API REST Noz Books",
+        "description": "Aplicação construída com React, TypeScript, Vite, Axios, React Router DOM e Sass.",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -106,7 +106,7 @@ export const projects = [
     },
     {
         "name": "Dashboard",
-        "description": "Projeto desenvolvido com vite, reactjs, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -124,7 +124,7 @@ export const projects = [
     },
     {
         "name": "Fylo",
-        "description": "Projeto desenvolvido com vite, reactjs, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -142,7 +142,7 @@ export const projects = [
     },
     {
         "name": "Loopstudio",
-        "description": "Projeto desenvolvido com vite, reactjs, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -160,7 +160,7 @@ export const projects = [
     },
     {
         "name": "Menu Responsive",
-        "description": "Projeto desenvolvido com reactjs, typescript, vite e sass",
+        "description": "Projeto desenvolvido com React, TypeScript, Vite e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -178,7 +178,7 @@ export const projects = [
     },
     {
         "name": "Advice",
-        "description": "Projeto desenvolvido com vite, reactjs, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -196,7 +196,7 @@ export const projects = [
     },
     {
         "name": "Crowdfunding",
-        "description": "Projeto desenvolvido com vite, reactjs, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -214,7 +214,7 @@ export const projects = [
     },
     {
         "name": "Qr Code",
-        "description": "Projeto desenvolvido com vite, reactjs, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -232,7 +232,7 @@ export const projects = [
     },
     {
         "name": "Blogr Page",
-        "description": "Projeto desenvolvido com vite, react, typescript, javascript e sass",
+        "description": "Projeto desenvolvido com Vite, React, TypeScript, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -250,7 +250,7 @@ export const projects = [
     },
     {
         "name": "NFT Card",
-        "description": "Projeto desenvolvido com react, javascript e sass",
+        "description": "Projeto desenvolvido com React, JavaScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -267,7 +267,7 @@ export const projects = [
     },
     {
         "name": "Slide Gallery Js",
-        "description": "Slide de imagens com Javascript. Um sistema de slide com imagens que mudam ao clicar nos botões com ajuda de javascript, css e html.",
+        "description": "Slide de imagens com JavaScript. Um sistema de slides com imagens que mudam ao clicar nos botões, com ajuda de JavaScript, CSS e HTML.",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -282,7 +282,7 @@ export const projects = [
     },
     {
         "name": "To Do With Javascript",
-        "description": "Um sistema dinamico de tarefas. Usando localstorage.",
+        "description": "Um sistema dinâmico de tarefas usando LocalStorage.",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -297,7 +297,7 @@ export const projects = [
     },
     {
         "name": "Genius Js",
-        "description": "Incrível jogo de memória desenvolvido com javascript",
+        "description": "Incrível jogo de memória desenvolvido com JavaScript",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -312,7 +312,7 @@ export const projects = [
     },
     {
         "name": "Contador Js",
-        "description": "Contador simples e dinâmico com JavaScript, css e html",
+        "description": "Contador simples e dinâmico com JavaScript, CSS e HTML",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -327,7 +327,7 @@ export const projects = [
     },
     {
         "name": "Tip Calculator App",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -341,7 +341,7 @@ export const projects = [
     },
     {
         "name": "Huddle Landing Page With Single",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -355,7 +355,7 @@ export const projects = [
     },
     {
         "name": "Ping Coming Soon Page",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -369,7 +369,7 @@ export const projects = [
     },
     {
         "name": "Single Price Grid Component",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -383,7 +383,7 @@ export const projects = [
     },
     {
         "name": "Intro Component With Sing Up Form",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -397,7 +397,7 @@ export const projects = [
     },
     {
         "name": "Base Appareal Coming Soon Page",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -411,7 +411,7 @@ export const projects = [
     },
     {
         "name": "Four Card Feature Section",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -425,7 +425,7 @@ export const projects = [
     },
     {
         "name": "Stats Preview Card Component",
-        "description": "stats-preview-card-componentDesenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -439,7 +439,7 @@ export const projects = [
     },
     {
         "name": "Order Summary Card",
-        "description": "Desenvolvido com html e css. Layout first mobile, usando flexbox e media query",
+        "description": "Desenvolvido com HTML e CSS. Layout mobile first, usando Flexbox e media queries",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -453,7 +453,7 @@ export const projects = [
     },
     {
         "name": "Finança Js",
-        "description": "Projeto desenvolvido com html, css com uso de flexbox e javascript",
+        "description": "Projeto desenvolvido com HTML e CSS, com uso de Flexbox e JavaScript",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -468,7 +468,7 @@ export const projects = [
     },
     {
         "name": "Landing Page Instagram",
-        "description": "Recriando a landing page do instagram adaptado a minha maneira com HTML e CSS",
+        "description": "Recriando a landing page do Instagram, adaptada à minha maneira, com HTML e CSS",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -482,7 +482,7 @@ export const projects = [
     },
     {
         "name": "Portfolio Nextjs",
-        "description": "Projeto desenvolvido com reactjs, nextjs e styled-components",
+        "description": "Projeto desenvolvido com React, Next.js e Styled Components",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -499,7 +499,7 @@ export const projects = [
     },
     {
         "name": "Coding Bootcamp Testimonials Slider",
-        "description": "Projeto desenvolvido com React, Vite, Typescript e Sass",
+        "description": "Projeto desenvolvido com React, Vite, TypeScript e Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -517,7 +517,7 @@ export const projects = [
     },
     {
         "name": "Article Preview Component Master",
-        "description": "Projeto desenvolvido com HTML5, CSS3 com flexblox e Javascript",
+        "description": "Projeto desenvolvido com HTML5 e CSS3, com Flexbox e JavaScript",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -590,7 +590,7 @@ export const projects = [
     },
     {
         "name": "Border And Color Js",
-        "description": "Coloque borda e cor na sua div com javascript",
+        "description": "Adicione borda e cor à sua div com JavaScript",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -605,7 +605,7 @@ export const projects = [
     },
     {
         "name": "Random Background Js",
-        "description": "Troca a cor de fundo de maneira aleatória da página web via javascript",
+        "description": "Troca a cor de fundo da página web de maneira aleatória via JavaScript",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -620,7 +620,7 @@ export const projects = [
     },
     {
         "name": "Interative",
-        "description": "Project with reactjs and sass",
+        "description": "Project with React and Sass",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },
@@ -637,7 +637,7 @@ export const projects = [
     },
     {
         "name": "Devflix",
-        "description": "Criei uma versão da netflix relacionado a informática",
+        "description": "Criei uma versão da Netflix relacionada à informática",
         "icons": [
             { icon: Html, color: orange },
             { icon: Css, color: blue },

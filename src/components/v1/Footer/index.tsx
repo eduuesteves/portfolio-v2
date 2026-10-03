@@ -4,7 +4,7 @@ export function Footer1() {
     return(
         <footer className={s.footer}>
             <h4>esteves-dorta@hotmail.com</h4>
-            <p>@copyright 2021</p>
+            <p>© 2021</p>
         </footer>
     )
 }

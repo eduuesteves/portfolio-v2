@@ -16,7 +16,7 @@
 }
 
 .menuClose {
-    width: 350px;
+    width: min(350px, calc(100vw - 2rem));
     height: 50px;
     background: white;
     display: flex;
@@ -27,7 +27,7 @@
 }
 
 .menuBox {
-    width: 350px;
+    width: min(350px, calc(100vw - 2rem));
     height: 400px;
     background: white;
     display: flex;
